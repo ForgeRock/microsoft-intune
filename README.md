@@ -28,7 +28,7 @@ Edit the necessary BrowserCollectorNode.java as appropriate.  To rebuild, run "m
 
 <br/>
 <br/>
-![ScreenShot](microsoft-mob-logo.png)
+![ScreenShot](./microsoft-mob-logo.png)
 
 ## Disclaimer
 The sample code described herein is provided on an "as is" basis, without warranty of any kind, to the fullest extent permitted by law. ForgeRock does not warrant or guarantee the individual success developers may have in implementing the sample code on their development platforms or in production configurations.
